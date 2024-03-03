@@ -1,6 +1,6 @@
 Demo
 
-https://adminandusermanagment.netlify.app/
+https://userandadminmanagment.netlify.app/
 
 # user-management-system-with-user-and-admin-login
 Hi All,
