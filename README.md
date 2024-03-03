@@ -20,6 +20,8 @@ Steps to execute the web app
  On the Browser type localhost with port of Mysql that had run on your desktop,create the sql file with same that you have using for database.
  
  Install VSCode in your desktop
+
+ Copy all the files to c-drive/xampp/htdocs/filename
  
  After all these steps Again Your Browser type
 
